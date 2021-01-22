@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <div>hewllo</div>
     <div>Title</div>
     <router-view class="view two" name="Registration"></router-view>
   </div>
