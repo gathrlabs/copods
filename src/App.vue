@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <div>Change to the code.</div>
     <router-view class="view two" name="Registration"></router-view>
   </div>
 </template>
